@@ -1,0 +1,26 @@
+.productlist{
+   
+   
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Create 3 equal columns */
+    grid-gap: 20px; /* Adjust the gap between product lists */
+    padding: 20px;
+
+}
+.home{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+
+.sidebar{
+    margin-top: 5%;
+     
+      width: 10%;
+}
+.frontimg{
+    margin-top: 5%;
+  
+    width: 90%;
+}

@@ -1,0 +1,2536 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-hermit-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-The-Hermit-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Hermit Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 349,
+      "model": "samsung"
+    },
+    {
+      "id": 2,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-white-bird-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-White-Bird-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "White Bird Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 3,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pixel-boy-1990-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Pixel-Boy-1990-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pixel Boy 1990 Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 429,
+      "model": "samsung"
+    },
+    {
+      "id": 4,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-purry-dreams-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Purry-Dreams-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Purry Dreams Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 249,
+      "model": "samsung"
+    },
+    {
+      "id": 5,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-space-strike-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Space-Strike-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Space Strike Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 299,
+      "model": "samsung"
+    },
+    {
+      "id": 6,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-super-dog-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Super-Dog-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Super Dog Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149,
+      "model": "samsung"
+    },
+    {
+      "id": 7,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-steel-soldiers-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Steel-Soldiers-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Steel Soldiers Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 699,
+      "model": "samsung"
+    },
+    {
+      "id": 8,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-high-priestess-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-The-High-Priestess-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The High Priestess Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 249,
+      "model": "samsung"
+    },
+    {
+      "id": 9,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-cancer-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Cancer-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Cancer Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 10,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-xcite-bike-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Xcite-Bike-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Xcite Bike Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 349,
+      "model": "samsung"
+    },
+    {
+      "id": 11,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-lovers-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-The-Lovers-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Lovers Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 399,
+      "model": "samsung"
+    },
+    {
+      "id": 12,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-watch-dog-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Watch-Dog-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Watch Dog Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 299,
+      "model": "samsung"
+    },
+    {
+      "id": 13,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-capricorn-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Capricorn-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Capricorn Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 249,
+      "model": "samsung"
+    },
+    {
+      "id": 14,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-magician-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-The-Magician-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Magician Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 299,
+      "model": "samsung"
+    },
+    {
+      "id": 15,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-woof-tribe-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Woof-Tribe-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Woof Tribe Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 16,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-star-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-The-Star-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Star Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 349,
+      "model": "samsung"
+    },
+    {
+      "id": 17,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-gemini-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Gemini-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Gemini Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149,
+      "model": "samsung"
+    },
+    {
+      "id": 18,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-leo-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Leo-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Leo Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 399,
+      "model": "samsung"
+    },
+    {
+      "id": 19,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pisces-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Pisces-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pisces Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 129,
+      "model": "samsung"
+    },
+    {
+      "id": 20,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-kidcassette-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Kidcassette-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Kidcassette Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "samsung"
+    },
+    {
+      "id": 21,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-sagittarius-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Sagittarius-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Sagittarius Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 22,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-scorpio-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Scorpio-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Scorpio Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 279,
+      "model": "samsung"
+    },
+    {
+      "id": 23,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-taurus-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Taurus-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Taurus Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149,
+      "model": "samsung"
+    },
+    {
+      "id": 24,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-virgo-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Virgo-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Virgo Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 25,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dark-teal-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Dark-Teal-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Dark Teal Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 279,
+      "model": "samsung"
+    },
+    {
+      "id": 26,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-queen-babe-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Queen-Babe-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Queen Babe Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149,
+      "model": "samsung"
+    },
+    {
+      "id": 27,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mirror-grey-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Mirror-Grey-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mirror Grey Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 28,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-anti-social-babe-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Anti-Social-Babe-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Anti Social Babe Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 239,
+      "model": "samsung"
+    },
+    {
+      "id": 29,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-be-you-tiful-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Be-You-Tiful-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Be You Tiful Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149,
+      "model": "samsung"
+    },
+    {
+      "id": 30,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-always-chic-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Always-Chic-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Always Chic Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 279,
+      "model": "samsung"
+    },
+    {
+      "id": 31,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-hey-good-looking-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Hey-Good-Looking-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Hey Good Looking Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 32,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-no-thanks-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-No-thanks-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "No thanks Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 159,
+      "model": "samsung"
+    },
+    {
+      "id": 33,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-makeup-ritual-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-MakeUp-Ritual-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "MakeUp Ritual Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 239,
+      "model": "samsung"
+    },
+    {
+      "id": 34,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-girl-power-babe-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Girl-Power-Babe-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Girl Power Babe Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 35,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-girls-run-the-world-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Girls-Run-The-World-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Girls Run The World Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 36,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-glam-no-damn-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Glam-No-Damn-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Glam No Damn Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 37,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-down-the-street-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Down-The-Street-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Down The Street Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 38,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-drift4l-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Drift4L-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Drift4L Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 39,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-flipster-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Flipster-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Flipster Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "samsung"
+    },
+    {
+      "id": 40,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-get-me-a-deck-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Get-Me-A-Deck-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Get Me A Deck Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 219,
+      "model": "samsung"
+    },
+    {
+      "id": 41,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-hustle-when-they-rest-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Hustle-When-They-Rest-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Hustle When They Rest Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "samsung"
+    },
+    {
+      "id": 42,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-gnarcotic-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Gnarcotic-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Gnarcotic Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 43,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rule-the-streets-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Rule-The-Streets-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rule The Streets Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "samsung"
+    },
+    {
+      "id": 44,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-skater-subculture-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Skater-Subculture-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Skater Subculture Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 219,
+      "model": "samsung"
+    },
+    {
+      "id": 45,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-starry-sky-marble-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Starry-Sky-Marble-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Starry Sky Marble Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 46,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mumbai-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Mumbai-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mumbai City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 47,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pune-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Pune-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pune City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 48,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-kolkata-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Kolkata-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Kolkata City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "samsung"
+    },
+    {
+      "id": 49,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-gold-marble-art-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Gold-Marble-Art-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Gold Marble Art Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "samsung"
+    },
+    {
+      "id": 50,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-hyderabad-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Hyderabad-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Hyderabad City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 51,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-delhi-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Delhi-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Delhi City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 52,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-marble-quatret-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Marble-Quatret-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Marble Quatret Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 53,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-amritsar-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Amritsar-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Amritsar City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "samsung"
+    },
+    {
+      "id": 54,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bangalore-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Bangalore-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bangalore City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 219,
+      "model": "samsung"
+    },
+    {
+      "id": 55,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-goa-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Goa-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Goa City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 56,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-patna-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Patna-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Patna City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 57,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Guwahati City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 58,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-surat-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Surat-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Surat City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "samsung"
+    },
+    {
+      "id": 59,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-udaipur-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Udaipur-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Udaipur City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "samsung"
+    },
+    {
+      "id": 60,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-champagne-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Champagne-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Champagne Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 61,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-creamcheese-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Creamcheese-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Creamcheese Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 62,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-jaipur-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Jaipur-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Jaipur City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 63,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vadodara-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Vadodara-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Vadodara City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 219,
+      "model": "samsung"
+    },
+    {
+      "id": 64,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-sunny-day-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Sunny-Day-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Sunny Day Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 65,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-kochi-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Kochi-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Kochi City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "samsung"
+    },
+    {
+      "id": 66,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-varanasi-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Varanasi-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Varanasi City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 67,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-visakhapatnam-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Visakhapatnam-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Visakhapatnam City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 68,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dusk-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Dusk-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Dusk Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "samsung"
+    },
+    {
+      "id": 69,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lucknow-city-tag-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Lucknow-City-Tag-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Lucknow City Tag Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 70,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-maroon-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Maroon-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Maroon Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 71,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-punch-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Pink-Punch-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pink Punch Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "samsung"
+    },
+    {
+      "id": 72,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bark-brown-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Bark-Brown-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bark Brown Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "samsung"
+    },
+    {
+      "id": 73,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-aqua-blue-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Aqua-Blue-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Aqua Blue Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "samsung"
+    },
+    {
+      "id": 74,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-berry-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Berry-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Berry Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 209,
+      "model": "samsung"
+    },
+    {
+      "id": 75,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-banana-milkshake-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Banana-Milkshake-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Banana Milkshake Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "samsung"
+    },
+    {
+      "id": 76,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-blue-water-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Blue-Water-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Blue Water Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 77,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-blue-ocean-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Blue-Ocean-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Blue Ocean Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 78,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bright-teal-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Bright-Teal-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bright Teal Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 79,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-candyfloss-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Candyfloss-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Candyfloss Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 80,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dark-spring-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Dark-Spring-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Dark Spring Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 81,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-deep-sea-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Deep-Sea-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Deep Sea Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 82,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-farmland-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Farmland-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Farmland Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 83,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fire-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Fire-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fire Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 84,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-grass-green-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Grass-Green-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Grass Green Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 159.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 85,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lemon-yellow-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Lemon-Yellow-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Lemon Yellow Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199.99,
+      "model": "Samsung"
+    },
+    {
+      "id": 86,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Lavender-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Lavender Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 229,
+      "model": "Samsung"
+    },
+    {
+      "id": 87,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-light-teal-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Light-Teal-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Light Teal Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "Samsung"
+    },
+    {
+      "id": 88,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-light-turquoise-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Light-Turquoise-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Light Turquoise Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "Samsung"
+    },
+    {
+      "id": 89,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-light-blue-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Light-Blue-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Light Blue Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 169,
+      "model": "Samsung"
+    },
+    {
+      "id": 90,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-light-smoke-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Light-Smoke-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Light Smoke Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 189,
+      "model": "Samsung"
+    },
+    {
+      "id": 91,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lime-green-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Lime-Green-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Lime Green Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "Samsung"
+    },
+    {
+      "id": 92,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-magenta-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Magenta-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Magenta Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 169,
+      "model": "Samsung"
+    },
+    {
+      "id": 93,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-magistic-marble-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Magistic-Marble-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Magistic Marble Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "Samsung"
+    },
+    {
+      "id": 94,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mocktail-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Mocktail-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mocktail Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "Samsung"
+    },
+    {
+      "id": 95,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-morning-sky-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Morning-Sky-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Morning Sky Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 169,
+      "model": "Samsung"
+    },
+    {
+      "id": 96,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mint-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Mint-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mint Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 179,
+      "model": "Samsung"
+    },
+    {
+      "id": 97,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mustard-yellow-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Mustard-Yellow-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mustard Yellow Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "Samsung"
+    },
+    {
+      "id": 98,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-nightfall-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Nightfall-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Nightfall Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 149,
+      "model": "Samsung"
+    },
+    {
+      "id": 99,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-navy-blue-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Navy-Blue-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Navy Blue Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 99,
+      "model": "Samsung"
+    },
+    {
+      "id": 100,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-olive-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Olive-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Olive Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 199,
+      "model": "Samsung"
+    },
+    {
+      "id": 101,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-parrot-green-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Parrot-Green-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Parrot Green Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 299,
+      "model": "Samsung"
+    },
+    {
+      "id": 102,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-orange-fire-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Orange-Fire-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Orange Fire Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 399,
+      "model": "Samsung"
+    },
+    {
+      "id": 103,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-carnation-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Pink-Carnation-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pink Carnation Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 499,
+      "model": "Samsung"
+    },
+    {
+      "id": 104,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pastel-olive-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Pastel-Olive-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pastel Olive Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 599,
+      "model": "Samsung"
+    },
+    {
+      "id": 105,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-red-magenta-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Red-Magenta-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Red Magenta Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 699,
+      "model": "Samsung"
+    },
+    {
+      "id": 106,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-purple-bloom-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Purple-Bloom-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Purple Bloom Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 799,
+      "model": "Samsung"
+    },
+    {
+      "id": 107,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-red-rose-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Red-Rose-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Red Rose Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 899,
+      "model": "Samsung"
+    },
+    {
+      "id": 108,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-playground-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Playground-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Playground Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 999,
+      "model": "Samsung"
+    },
+    {
+      "id": 109,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-popsicle-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Popsicle-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Popsicle Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 799,
+      "model": "Samsung"
+    },
+    {
+      "id": 110,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-teal-blue-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Teal-Blue-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Teal Blue Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 899,
+      "model": "Samsung"
+    },
+    {
+      "id": 111,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-sunrise-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Sunrise-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Sunrise Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 799,
+      "model": "Samsung"
+    },
+    {
+      "id": 112,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-water-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Water-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Water Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 999,
+      "model": "Samsung"
+    },
+    {
+      "id": 113,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-unicorn-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Unicorn-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Unicorn Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 799,
+      "model": "Samsung"
+    },
+    {
+      "id": 114,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-white-marble-2-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-White-Marble-2-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "White Marble 2 Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 899,
+      "model": "Samsung"
+    },
+    {
+      "id": 115,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-upside-down-valley-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Upside-Down-Valley-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Upside Down Valley Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 799,
+      "model": "Samsung"
+    },
+    {
+      "id": 116,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-and-sea-marble-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Black-And-Sea-Marble-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Black And Sea Marble Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 899,
+      "model": "Samsung"
+    },
+    {
+      "id": 117,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-upside-down-valley-gradient-glass-case-cover-for-samsung-galaxy-a54-5g-images/DailyObjects-Upside-Down-Valley-Gradient-Glass-Case-Cover-For-Samsung-Galaxy-A54-5G.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Upside Down Valley Gradient Glass Case Cover For Samsung Galaxy A54 5G",
+      "price": 399,
+      "model": "Samsung"
+    },
+    {
+      "id": 118,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/nimbus-phone-case-cover-for-iphone-15-images/Nimbus-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-311,h-383,dpr-1",
+      "title": "Nimbus Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 119,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-stride-2-0-clear-case-cover-for-iphone-15-images/DailyObjects-Stride-2-0-Clear-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-311,h-383,dpr-1",
+      "title": "Stride 2.0 Clear Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 120,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-coimbatore-town-hall-postcard-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Coimbatore-Town-Hall-Postcard-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-311,h-383,dpr-1",
+      "title": "Coimbatore Town Hall Postcard Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 121,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-reflex-magsafe-shield-case-cover-for-iphone-15-images/DailyObjects-Reflex-MagSafe-Shield-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Reflex MagSafe Shield Case Cover For iPhone 15",
+      "price": 2199,
+      "model": "apple"
+    },
+    {
+      "id": 122,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-stride-2-0-clear-magsafe-phone-case-cover-for-iphone-15-images/DailyObjects-Stride-2-0-Clear-MagSafe-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Stride 2.0 Clear MagSafe Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 123,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-color-block-camo-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Color-Block-Camo-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-311,h-383,dpr-1",
+      "title": "Color Block Camo Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 124,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-colourblock-jumper-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Colourblock-Jumper-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Colourblock Jumper Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 125,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-coping-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Coping-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Coping Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 126,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-cravings-before-savings-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Cravings-Before-Savings-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Cravings Before Savings Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 127,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-twilight-stride-2-0-clear-magsafe-phone-case-cover-for-iphone-15-images/DailyObjects-Twilight-Stride-2-0-Clear-MagSafe-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Twilight Stride 2.0 Clear MagSafe Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 128,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-zon-stride-2-0-clear-magsafe-phone-case-cover-for-iphone-15-images/DailyObjects-Zon-Stride-2-0-Clear-MagSafe-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Zon Stride 2.0 Clear MagSafe Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 129,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ares-stride-2-0-clear-magsafe-phone-case-cover-for-iphone-15-images/DailyObjects-Ares-Stride-2-0-Clear-MagSafe-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ares Stride 2.0 Clear MagSafe Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 130,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-cronus-stride-2-0-clear-magsafe-phone-case-cover-for-iphone-15-images/DailyObjects-Cronus-Stride-2-0-Clear-MagSafe-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Cronus Stride 2.0 Clear MagSafe Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 131,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bloom-bliss-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bloom-Bliss-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bloom Bliss Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 132,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-curious-cat-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Curious-Cat-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Curious Cat Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 133,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-3-of-cups-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-3-Of-Cups-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "3 Of Cups Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 134,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dear-dragon-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Dear-Dragon-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Dear Dragon Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 135,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-90s-rule-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-90s-Rule-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "90's Rule Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 136,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-moth-myst-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Moth-Myst-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Moth Myst Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 137,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pot-pluck-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Pot-Pluck-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pot Pluck Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 138,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-raven-rush-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Raven-Rush-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Raven Rush Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 139,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-sly-slither-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Sly-Slither-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Sly Slither Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 140,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-adventure-out-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Adventure-Out-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Adventure Out Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 141,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-toad-trap-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Toad-Trap-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Toad Trap Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 142,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ahmedabad-city-tag-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Ahmedabad-City-Tag-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ahmedabad City Tag Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 143,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ahmedabad-delhi-gate-postcard-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Ahmedabad-Delhi-Gate-Postcard-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ahmedabad Delhi Gate Postcard Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 144,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ai-phone-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Ai-Phone-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ai-Phone Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 145,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-always-chic-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Always-Chic-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Always Chic Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 146,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-amritsar-city-tag-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Amritsar-City-Tag-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Amritsar City Tag Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 147,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-amritsar-golden-temple-postcard-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Amritsar-Golden-Temple-Postcard-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Amritsar Golden Temple Postcard Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 148,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-anti-social-babe-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Anti-Social-Babe-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Anti Social Babe Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 149,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-aquarius-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Aquarius-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Aquarius Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 150,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-aries-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Aries-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Aries Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 151,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bandar-mela-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bandar-Mela-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bandar Mela Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 152,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bangalore-city-tag-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bangalore-City-Tag-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bangalore City Tag Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 153,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-battle-jeep-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Battle-Jeep-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Battle Jeep Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 154,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-battle-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Battle-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Battle Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 155,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-be-you-tiful-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Be-You-Tiful-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Be You Tiful Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 156,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bengaluru-glass-house-postcard-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bengaluru-Glass-House-Postcard-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bengaluru Glass House Postcard Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 157,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bhopal-city-tag-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bhopal-City-Tag-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bhopal City Tag Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 158,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bhopal-moti-masjid-postcard-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bhopal-Moti-Masjid-Postcard-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bhopal Moti Masjid Postcard Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 159,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-billi-matchbox-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Billi-Matchbox-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Billi Matchbox Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 160,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-hawk-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Black-Hawk-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Black Hawk Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 161,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bandook-mela-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bandook-Mela-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bandook Mela Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 162,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bomb-buster-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bomb-Buster-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bomb Buster Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 163,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bubble-blaster-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Bubble-Blaster-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bubble Blaster Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 164,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-queen-babe-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Queen-Babe-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Queen Babe Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 165,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rajput-facial-hair-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rajput-Facial-Hair-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rajput Facial Hair Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 166,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rajput-warrior-full-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rajput-Warrior-Full-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rajput Warrior Full Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 167,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rani-matchbox-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rani-Matchbox-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rani Matchbox Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 168,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ranchi-patratu-valley-postcard-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Ranchi-Patratu-Valley-Postcard-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ranchi Patratu Valley Postcard Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 169,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rangeen-artist-truckback-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rangeen-Artist-Truckback-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rangeen Artist Truckback Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 170,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-real-art-stride-2-0-clear-magsafe-phone-case-cover-for-iphone-15-images/DailyObjects-Real-Art-Stride-2.0-Clear-MagSafe-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Real Art Stride 2.0 Clear MagSafe Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 171,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-red-waves-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Red-Waves-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Red Waves Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 172,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-raja-matchbox-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Raja-Matchbox-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Raja Matchbox Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 173,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-records-on-stride-2-0-clear-magsafe-phone-case-cover-for-iphone-15-images/DailyObjects-Records-On-Stride-2.0-Clear-MagSafe-Phone-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Records On Stride 2.0 Clear MagSafe Phone Case Cover For iPhone 15",
+      "price": 2499,
+      "model": "apple"
+    },
+    {
+      "id": 174,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-restricted-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Restricted-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Restricted Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 175,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rhombus-aqua-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rhombus-Aqua-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rhombus Aqua Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 176,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rhombus-ochre-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rhombus-Ochre-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rhombus Ochre Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 177,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rhombus-red-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rhombus-Red-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rhombus Red Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 178,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-riverside-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Riverside-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Riverside Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 179,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-road-king-truckback-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Road-King-Truckback-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Road King Truckback Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 180,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-road-rage-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Road-Rage-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Road Rage Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 181,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rose-matchbox-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rose-Matchbox-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rose Matchbox Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 182,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-royal-decree-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Royal-Decree-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Royal Decree Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 183,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-royal-parade-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Royal-Parade-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Royal Parade Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 184,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-rule-the-streets-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Rule-The-Streets-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Rule The Streets Stride 2.0 Case Cover For iPhone 15",
+      "price": 1999,
+      "model": "apple"
+    },
+    
+    {
+      "id": 185,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-3-of-cups-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-3-Of-Cups-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "3 Of Cups Glass Case Cover For Xiaomi 13 Pro",
+      "price": 1999,
+      "model": "apple"
+    },
+    {
+      "id": 186,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-beach-marble-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Beach-Marble-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Beach Marble Glass Case Cover For Xiaomi 13 Pro",
+      "price": 299,
+      "model": "redmi"
+    },
+    {
+      "id": 187,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-aquarius-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Aquarius-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-311,h-383,dpr-1",
+      "title": "Aquarius Glass Case Cover For Xiaomi 13 Pro",
+      "price": 499,
+      "model": "redmi"
+    },
+    {
+      "id": 188,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-aries-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Aries-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Aries Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 189,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bangalore-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Bangalore-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bangalore City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 399,
+      "model": "redmi"
+    },
+    {
+      "id": 190,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-battle-jeep-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Battle-Jeep-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Battle Jeep Glass Case Cover For Xiaomi 13 Pro",
+      "price": 599,
+      "model": "redmi"
+    },
+    {
+      "id": 191,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-be-you-tiful-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Be-You-Tiful-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Be You Tiful Glass Case Cover For Xiaomi 13 Pro",
+      "price": 299,
+      "model": "redmi"
+    },
+    {
+      "id": 192,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bubble-blaster-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Bubble-Blaster-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bubble Blaster Glass Case Cover For Xiaomi 13 Pro",
+      "price": 399,
+      "model": "redmi"
+    },
+    {
+      "id": 193,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-hawk-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Black-Hawk-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Black Hawk Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 194,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-and-sea-marble-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Black-And-Sea-Marble-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Black And Sea Marble Glass Case Cover For Xiaomi 13 Pro",
+      "price": 299,
+      "model": "redmi"
+    },
+    {
+      "id": 195,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-marble-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Black-Marble-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Black Marble Glass Case Cover For Xiaomi 13 Pro",
+      "price": 399,
+      "model": "redmi"
+    },
+    {
+      "id": 196,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bhopal-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Bhopal-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bhopal City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 499,
+      "model": "redmi"
+    },
+    {
+      "id": 197,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-anti-social-babe-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Anti-Social-Babe-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Anti Social Babe Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 198,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-amritsar-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Amritsar-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Amritsar City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 299,
+      "model": "redmi"
+    },
+    {
+      "id": 199,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-always-chic-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Always-Chic-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Always Chic Glass Case Cover For Xiaomi 13 Pro",
+      "price": 399,
+      "model": "redmi"
+    },
+    {
+      "id": 200,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ahmedabad-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ahmedabad-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ahmedabad City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 499,
+      "model": "redmi"
+    },
+    {
+      "id": 201,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-hermit-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-Hermit-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Hermit Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 202,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-high-priestess-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-High-Priestess-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The High Priestess Glass Case Cover For Xiaomi 13 Pro",
+      "price": 299,
+      "model": "redmi"
+    },
+    {
+      "id": 203,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-jet-ranger-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Jet-Ranger-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Jet Ranger Glass Case Cover For Xiaomi 13 Pro",
+      "price": 399,
+      "model": "redmi"
+    },
+    {
+      "id": 204,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-fool-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-Fool-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Fool Glass Case Cover For Xiaomi 13 Pro",
+      "price": 499,
+      "model": "redmi"
+    },
+
+    {
+      "id": 185,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-temperance-stride-2-0-case-cover-for-iphone-15-images/DailyObjects-Temperance-Stride-2-0-Case-Cover-For-iPhone-15.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Temperance Stride 2.0 Case Cover For iPhone 15",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 186,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-3-of-cups-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-3-Of-Cups-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "3 Of Cups Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 187,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-beach-marble-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Beach-Marble-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Beach Marble Glass Case Cover For Xiaomi 13 Pro",
+      "price": 110,
+      "model": "redmi"
+    },
+    {
+      "id": 188,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-aquarius-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Aquarius-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-311,h-383,dpr-1",
+      "title": "Aquarius Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 189,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-aries-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Aries-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Aries Glass Case Cover For Xiaomi 13 Pro",
+      "price": 130,
+      "model": "redmi"
+    },
+    {
+      "id": 190,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bangalore-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Bangalore-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bangalore City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 191,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-battle-jeep-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Battle-Jeep-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Battle Jeep Glass Case Cover For Xiaomi 13 Pro",
+      "price": 140,
+      "model": "redmi"
+    },
+    {
+      "id": 192,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-be-you-tiful-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Be-You-Tiful-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Be You Tiful Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 193,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bubble-blaster-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Bubble-Blaster-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bubble Blaster Glass Case Cover For Xiaomi 13 Pro",
+      "price": 120,
+      "model": "redmi"
+    },
+    {
+      "id": 194,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ganesha-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ganesha-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ganesha Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 195,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ganesha-3-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ganesha-3-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ganesha 3 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 196,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-gecko-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Gecko-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Gecko Glass Case Cover For Xiaomi 13 Pro",
+      "price": 145,
+      "model": "redmi"
+    },
+    {
+      "id": 197,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-geometric-sunset-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Geometric-Sunset-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Geometric Sunset Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 198,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-girls-night-out-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Girls-Night-Out-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Girls Night Out Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 199,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-glimpse-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Glimpse-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Glimpse Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 200,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-godfather-quote-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Godfather-Quote-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Godfather Quote 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 201,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-got-game-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Got-Game-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Got Game Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 202,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-hip-hop-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Hip-Hop-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Hip Hop Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 203,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-horoscope-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Horoscope-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Horoscope Glass Case Cover For Xiaomi 13 Pro",
+      "price": 135,
+      "model": "redmi"
+    },
+    {
+      "id": 204,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-iphone-15-pro-3d-textured-glass-case-cover-for-iphone-15-pro-images/DailyObjects-iPhone-15-Pro-3D-Textured-Glass-Case-Cover-for-iPhone-15-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "iPhone 15 Pro 3D Textured Glass Case Cover for iPhone 15 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 205,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-axe-of-doobius-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-Axe-of-Doobius-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Axe of Doobius Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 206,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-fundamentals-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-Fundamentals-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Fundamentals Glass Case Cover For Xiaomi 13 Pro",
+      "price": 125,
+      "model": "redmi"
+    },
+    {
+      "id": 207,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-lovers-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-Lovers-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Lovers Glass Case Cover For Xiaomi 13 Pro",
+      "price": 145,
+      "model": "redmi"
+    },
+    {
+      "id": 208,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-magician-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-Magician-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Magician Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 209,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-kixel-arcade-1-0-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Kixel-Arcade-1.0-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Kixel Arcade 1.0 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 210,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-kidcassette-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Kidcassette-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Kidcassette Glass Case Cover For Xiaomi 13 Pro",
+      "price": 130,
+      "model": "redmi"
+    },
+    {
+      "id": 211,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-the-sun-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-The-Sun-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "The Sun Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 212,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Guwahati City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 213,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dehradun-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Dehradun-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Dehradun City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 135,
+      "model": "redmi"
+    },
+    {
+      "id": 214,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-death-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Death-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Death Glass Case Cover For Xiaomi 13 Pro",
+      "price": 140,
+      "model": "redmi"
+    },
+    {
+      "id": 215,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-delhi-city-tag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Delhi-City-Tag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Delhi City Tag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 216,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-colorful-mind-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Colorful-Mind-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Colorful Mind Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 217,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-cancer-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Cancer-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Cancer Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 218,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-camou-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Camou-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Camou Glass Case Cover For Xiaomi 13 Pro",
+      "price": 140,
+      "model": "redmi"
+    },
+    {
+      "id": 219,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-camel-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Camel-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Camel Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 220,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-budhha-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Budhha-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Budhha Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 221,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-british-flag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-British-Flag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "British Flag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 145,
+      "model": "redmi"
+    },
+    {
+      "id": 222,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-bricks-of-horror-2-0-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Bricks-Of-Horror-2.0-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Bricks Of Horror 2.0 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 223,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-boho-unicorn-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Boho-Unicorn-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Boho Unicorn Glass Case Cover For Xiaomi 13 Pro",
+      "price": 130,
+      "model": "redmi"
+    },
+    {
+      "id": 224,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-boho-hippie-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Boho-Hippie-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Boho Hippie Glass Case Cover For Xiaomi 13 Pro",
+      "price": 140,
+      "model": "redmi"
+    },
+    {
+      "id": 225,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-avocado-5-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Avocado-5-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Avocado 5 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 226,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-astronaut-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Astronaut-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Astronaut Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 227,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dancing-queen-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Dancing-Queen-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Dancing Queen Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 228,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-queen-boss-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Queen-Boss-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Queen Boss Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 229,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-macaroons-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Macaroons-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Macaroons Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 230,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-snowman-family-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Snowman-Family-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Snowman Family Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 231,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-robot-love-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Robot-Love-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Robot Love Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 232,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-reindeer-love-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Reindeer-Love-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Reindeer Love Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 233,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pineapple-5-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Pineapple-5-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Pineapple 5 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 234,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-panther-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Panther-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Panther Glass Case Cover For Xiaomi 13 Pro",
+      "price": 140,
+      "model": "redmi"
+    },
+    {
+      "id": 235,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-owlsome-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Owlsome-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Owlsome 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 236,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-nirvana-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Nirvana-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Nirvana Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 237,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-new-zealand-flag-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-New-Zealand-Flag-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "New Zealand Flag Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 238,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-never-stop-dreaming-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Never-Stop-Dreaming-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Never Stop Dreaming Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 239,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-music-vibes-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Music-Vibes-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Music Vibes Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 240,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-music-city-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Music-City-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Music City Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 241,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-monster-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Monster-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Monster Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 242,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-misty-palm-trees-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Misty-Palm-Trees-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Misty Palm Trees Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 243,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mega-chess-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Mega-Chess-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mega Chess Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 244,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-me-geometric-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Me-Geometric-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Me Geometric Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 245,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mehndi-elephant-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Mehndi-Elephant-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mehndi Elephant Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 246,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mandala-zen-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Mandala-Zen-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Mandala Zen Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 247,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-magical-unicorn-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Magical-Unicorn-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Magical Unicorn Glass Case Cover For Xiaomi 13 Pro",
+      "price": 110,
+      "model": "redmi"
+    },
+    {
+      "id": 248,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-macbook-air-13-pro-3d-textured-glass-case-cover-for-macbook-air-13-pro-images/DailyObjects-MacBook-Air-13-Pro-3D-Textured-Glass-Case-Cover-For-MacBook-Air-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "MacBook Air 13 Pro 3D Textured Glass Case Cover For MacBook Air 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 249,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-love-unicorn-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Love-Unicorn-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Love Unicorn Glass Case Cover For Xiaomi 13 Pro",
+      "price": 120,
+      "model": "redmi"
+    },
+    {
+      "id": 250,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-love-letters-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Love-Letters-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Love Letters Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 251,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-love-forever-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Love-Forever-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Love Forever 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 252,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-london-bridge-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-London-Bridge-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "London Bridge Glass Case Cover For Xiaomi 13 Pro",
+      "price": 145,
+      "model": "redmi"
+    },
+    {
+      "id": 253,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lion-king-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Lion-King-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Lion King 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 254,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-keep-calm-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Keep-Calm-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Keep Calm Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 255,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-jellyfish-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Jellyfish-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Jellyfish 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 256,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-i-love-coffee-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-I-Love-Coffee-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "I Love Coffee Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 257,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-i-love-beer-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-I-Love-Beer-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "I Love Beer Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 258,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-hukka-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Hukka-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Hukka Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 259,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-hot-air-balloon-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Hot-Air-Balloon-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Hot Air Balloon 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 260,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-heart-on-wings-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Heart-On-Wings-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Heart On Wings 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 261,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-heart-love-3-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Heart-Love-3-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Heart Love 3 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 262,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-happy-halloween-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Happy-Halloween-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Happy Halloween Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 263,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-witch-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Witch-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Witch 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 264,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-monster-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Monster-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Monster 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 265,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-house-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-House-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween House 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 266,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-ghost-3-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Ghost-3-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Ghost 3 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 267,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 268,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-dark-tree-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Dark-Tree-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Dark Tree Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 269,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-cat-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Cat-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Cat 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 270,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-bats-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Bats-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Bats 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 271,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 272,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 273,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-ghost-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Ghost-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Ghost 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 274,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-dark-moon-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Dark-Moon-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Dark Moon 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 275,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-bats-3-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Bats-3-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Bats 3 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 276,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-halloween-bats-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Halloween-Bats-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Halloween Bats 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 277,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guitar-love-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Guitar-Love-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Guitar Love Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 278,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-grunge-peace-sign-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Grunge-Peace-Sign-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Grunge Peace Sign Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 279,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-grunge-peace-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Grunge-Peace-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Grunge Peace Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 280,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-great-white-shark-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Great-White-Shark-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Great White Shark 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 281,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-graffiti-peace-sign-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Graffiti-Peace-Sign-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Graffiti Peace Sign 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 282,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-geometric-diamonds-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Geometric-Diamonds-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Geometric Diamonds Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 283,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-game-on-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Game-On-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Game On Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 284,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-funky-peace-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Funky-Peace-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Funky Peace Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 285,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-funky-peace-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Funky-Peace-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Funky Peace 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 286,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-floral-vintage-birds-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Floral-Vintage-Birds-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Floral Vintage Birds 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 287,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-floral-bouquet-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Floral-Bouquet-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Floral Bouquet 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 288,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-floral-beauty-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Floral-Beauty-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Floral Beauty 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 289,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-floral-beauty-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Floral-Beauty-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Floral Beauty 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 290,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-floral-beauty-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Floral-Beauty-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Floral Beauty Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 291,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-flying-elephant-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Flying-Elephant-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Flying Elephant 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 292,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fierce-eagle-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fierce-Eagle-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fierce Eagle 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 293,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fierce-eagle-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fierce-Eagle-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fierce Eagle Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 294,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fern-leaf-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fern-Leaf-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fern Leaf 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 295,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fen-leaf-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fen-Leaf-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fen Leaf 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 296,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-feather-heart-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Feather-Heart-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Feather Heart 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 297,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-feather-dreams-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Feather-Dreams-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Feather Dreams 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 298,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-feather-dreams-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Feather-Dreams-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Feather Dreams 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 299,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-feather-dreams-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Feather-Dreams-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Feather Dreams Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 300,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-feather-dance-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Feather-Dance-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Feather Dance 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 301,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-feather-dance-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Feather-Dance-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Feather Dance Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 302,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fantasy-owl-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fantasy-Owl-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fantasy Owl 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 303,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fantasy-owl-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fantasy-Owl-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fantasy Owl Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 304,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fantasy-fairy-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fantasy-Fairy-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fantasy Fairy 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 305,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fantasy-fairy-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fantasy-Fairy-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fantasy Fairy Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 306,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-wings-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Wings-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Wings 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 307,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-wings-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Wings-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Wings 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 308,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-wings-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Wings-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Wings Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 309,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-tale-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Tale-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Tale 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 310,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-tale-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Tale-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Tale 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 311,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-tale-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Tale-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Tale Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 312,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-glow-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Glow-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Glow 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 313,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-glow-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Glow-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Glow 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 314,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fairy-glow-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fairy-Glow-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fairy Glow Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 315,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fabulous-peacock-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fabulous-Peacock-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fabulous Peacock 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 316,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fabulous-peacock-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fabulous-Peacock-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fabulous Peacock 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 317,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-fabulous-peacock-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Fabulous-Peacock-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Fabulous Peacock Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 318,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-exotic-paisley-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Exotic-Paisley-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Exotic Paisley 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 319,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-exotic-paisley-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Exotic-Paisley-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Exotic Paisley 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 320,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-exotic-paisley-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Exotic-Paisley-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Exotic Paisley Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 321,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-eucalyptus-leaves-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Eucalyptus-Leaves-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Eucalyptus Leaves 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 322,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-eucalyptus-leaves-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Eucalyptus-Leaves-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Eucalyptus Leaves Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 323,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ethnic-ikat-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ethnic-Ikat-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ethnic Ikat 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 324,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ethnic-ikat-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ethnic-Ikat-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ethnic Ikat 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 325,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ethnic-ikat-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ethnic-Ikat-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ethnic Ikat Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 326,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ethnic-elephants-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ethnic-Elephants-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ethnic Elephants 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 327,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ethnic-elephants-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ethnic-Elephants-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ethnic Elephants 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 328,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ethnic-elephants-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Ethnic-Elephants-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Ethnic Elephants Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 329,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-hieroglyphics-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Hieroglyphics-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Hieroglyphics 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 330,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-hieroglyphics-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Hieroglyphics-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Hieroglyphics 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    },
+    {
+      "id": 331,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-hieroglyphics-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Hieroglyphics-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Hieroglyphics Glass Case Cover For Xiaomi 13 Pro",
+      "price": 170,
+      "model": "redmi"
+    },
+    {
+      "id": 332,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-eiffel-tower-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Eiffel-Tower-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Eiffel Tower 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 175,
+      "model": "redmi"
+    },
+    {
+      "id": 333,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-eiffel-tower-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Eiffel-Tower-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Eiffel Tower Glass Case Cover For Xiaomi 13 Pro",
+      "price": 180,
+      "model": "redmi"
+    },
+    {
+      "id": 334,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-eye-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Eye-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Eye 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 185,
+      "model": "redmi"
+    },
+    {
+      "id": 335,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-eye-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Eye-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Eye Glass Case Cover For Xiaomi 13 Pro",
+      "price": 190,
+      "model": "redmi"
+    },
+    {
+      "id": 336,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-cleopatra-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Cleopatra-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Cleopatra 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 195,
+      "model": "redmi"
+    },
+    {
+      "id": 337,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-cleopatra-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Cleopatra-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Cleopatra 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 199,
+      "model": "redmi"
+    },
+    {
+      "id": 338,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-egyptian-cleopatra-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Egyptian-Cleopatra-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Egyptian Cleopatra Glass Case Cover For Xiaomi 13 Pro",
+      "price": 150,
+      "model": "redmi"
+    },
+    {
+      "id": 339,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-elegant-damask-2-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Elegant-Damask-2-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Elegant Damask 2 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 155,
+      "model": "redmi"
+    },
+    {
+      "id": 340,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-elegant-damask-1-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Elegant-Damask-1-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Elegant Damask 1 Glass Case Cover For Xiaomi 13 Pro",
+      "price": 160,
+      "model": "redmi"
+    },
+    {
+      "id": 341,
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-elegant-damask-glass-case-cover-for-xiaomi-13-pro-images/DailyObjects-Elegant-Damask-Glass-Case-Cover-For-Xiaomi-13-Pro.png?tr=cm-pad_resize,v-2,w-312,h-385,dpr-1",
+      "title": "Elegant Damask Glass Case Cover For Xiaomi 13 Pro",
+      "price": 165,
+      "model": "redmi"
+    }
+    
+
+    
+  ]
+}

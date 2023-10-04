@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #007bff;
+    display: flex;
+    justify-content: space-around;
+  
+    position: fixed; /* Fix the navbar to the top */
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.navbar a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: larger;
+}
+
+.navbar h1{
+     margin-top: 10px;
+     margin-left: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+@media (max-width: 768px) {
+    .navbar{
+        display: flex;
+        flex-direction: column;
+        font-size: small;
+    }
+}
+@media (max-width: 768px) {
+    h1{
+        font-size: medium;
+        text-align: center;
+    }
+}

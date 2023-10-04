@@ -1,0 +1,12 @@
+export const POST_SUCCESS= "POST_SUCCESS"
+export const GET_SUCCESS= "POST_SUCCESS"
+
+export const PRODUCT_REQUEST= "PRODUCT_REQUEST"
+export const PRODUCT_FAILURE= "PRODUCT_FAILURE"
+
+
+//Action Type for  Login 
+
+export const LOGIN_REQUEST= "LOGIN_REQUEST" 
+export const LOGIN_SUCCESS= "LOGIN_SUCCESS" 
+export const LOGIN_FAILURE= "LOGIN_FAILURE" 
